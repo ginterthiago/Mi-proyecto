@@ -1,0 +1,15 @@
+[
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "ultimos_accesos": [
+      { "fecha": "2025-05-08T09:12:00Z", "dispositivo": "Android", "ciudad": "Bolívar" },
+      { "fecha": "2025-05-06T20:40:00Z", "dispositivo": "Web - Chrome", "ciudad": "Bolívar" }
+    ]
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "ultimos_accesos": [
+      { "fecha": "2025-05-07T15:30:00Z", "dispositivo": "iOS", "ciudad": "Bolívar" }
+    ]
+  }
+]

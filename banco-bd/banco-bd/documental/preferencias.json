@@ -1,0 +1,26 @@
+[
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "preferencias": {
+      "tema": "oscuro",
+      "idioma": "es",
+      "notificaciones": { "email": true, "sms": false }
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "preferencias": {
+      "tema": "claro",
+      "idioma": "en",
+      "notificaciones": { "email": false, "sms": true }
+    }
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174002",
+    "preferencias": {
+      "tema": "claro",
+      "idioma": "es",
+      "notificaciones": { "email": true, "sms": true }
+    }
+  }
+]

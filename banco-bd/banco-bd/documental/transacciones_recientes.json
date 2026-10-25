@@ -1,0 +1,47 @@
+[
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174000",
+    "ultimas_transacciones": [
+      {
+        "fecha": "2025-05-08T18:05:00Z",
+        "tipo": "transferencia",
+        "monto": 7500.0,
+        "cuenta": "****0001",
+        "descripcion": "Devolución de dinero"
+      },
+      {
+        "fecha": "2025-05-05T09:45:00Z",
+        "tipo": "transferencia",
+        "monto": 25000.0,
+        "cuenta": "****0001",
+        "descripcion": "Pago de alquiler"
+      },
+      {
+        "fecha": "2025-05-02T10:15:00Z",
+        "tipo": "deposito",
+        "monto": 50000.0,
+        "cuenta": "****0001",
+        "descripcion": "Depósito en ventanilla"
+      }
+    ]
+  },
+  {
+    "cliente_id": "123e4567-e89b-12d3-a456-426614174001",
+    "ultimas_transacciones": [
+      {
+        "fecha": "2025-05-06T11:00:00Z",
+        "tipo": "deposito",
+        "monto": 80000.0,
+        "cuenta": "****0002",
+        "descripcion": "Acreditación de sueldo"
+      },
+      {
+        "fecha": "2025-05-03T14:30:00Z",
+        "tipo": "retiro",
+        "monto": 10000.0,
+        "cuenta": "****0002",
+        "descripcion": "Retiro en cajero"
+      }
+    ]
+  }
+]
